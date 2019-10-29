@@ -1,4 +1,6 @@
+__pycache__/
 /images
 /.ipynb_checkpoints
 imagenet-vgg-verydeep-19.mat
 /stimulifeatures
+weights*
