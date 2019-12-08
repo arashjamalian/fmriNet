@@ -11,4 +11,5 @@ BOLD5000 data set needs to be dowloaded by following instructions in https://bol
 To run mega_classifier_all.ipynb notebook, you need to get preprocessed ROIs and image names from https://ndownloader.figshare.com/articles/6459449/versions/4 and place it under /home/ubuntu directory.
 
 Decritpion of notebooks:
-mega_classifier_all.ipynb: main project notebook where we label data and develop the LSTM model
+
+- mega_classifier_all.ipynb: main project notebook where we label data and develop the LSTM model
