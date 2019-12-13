@@ -1,6 +1,10 @@
 # fmriNet
 
-This repository for CS230 project on Categorization of seen images from brain activity using sequence models.
+## Categorization of seen images from brain activity using sequence models
+
+### Arash Jamalian, Rafi Ayub
+
+This repository is for the CS230 project, "Categorization of seen images from brain activity using sequence models". Please see Poster_230.pdf and CS230FinalReport.pdf for an overview of the project.
 
 Notebooks were run on AWS p2.xlarge EC2 instance with 61GiB RAM using conda_tensorflow_p36 enviornment.
 
